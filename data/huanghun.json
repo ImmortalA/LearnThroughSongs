@@ -1,0 +1,138 @@
+{
+  "songId": "huanghun",
+  "title": "黃昏",
+  "artist": "周傳雄 (Steve Chou)",
+  "provider": { "type": "youtube", "id": "KQTCO417h_M" },
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "tokens": [
+            { "t": "過", "py": "guo", "hv": "quá", "en": "to pass; to go through", "vi": "trải qua" },
+            { "t": "完整", "py": "wan zheng", "hv": "hoàn chỉnh", "en": "complete; whole", "vi": "trọn vẹn" },
+            { "t": "個夏天", "py": "ge xia tian", "hv": "cá hạ thiên", "en": "a whole summer", "vi": "cả một mùa hè" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "憂傷", "py": "you shang", "hv": "ưu thương", "en": "sadness; sorrow", "vi": "buồn bã; đau buồn" },
+            { "t": "並沒有", "py": "bing mei you", "hv": "tịnh vô hữu", "en": "did not; hasn't", "vi": "không hề" },
+            { "t": "好一些", "py": "hao yi xie", "hv": "hảo nhất ta", "en": "get better (a bit)", "vi": "đỡ hơn chút nào" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "開車", "py": "kai che", "hv": "khai xa", "en": "to drive (a car)", "vi": "lái xe" },
+            { "t": "行駛", "py": "xing shi", "hv": "hành sử", "en": "to travel; to drive along", "vi": "chạy xe; di chuyển" },
+            { "t": "在公路", "py": "zai gong lu", "hv": "tại công lộ", "en": "on the highway", "vi": "trên đường cao tốc" },
+            { "t": "無際無邊", "py": "wu ji wu bian", "hv": "vô tế vô biên", "en": "boundless; endless", "vi": "mênh mông vô tận" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "有", "py": "you", "hv": "hữu", "en": "to have; there is", "vi": "có" },
+            { "t": "離開自己", "py": "li kai zi ji", "hv": "ly khai tự kỷ", "en": "to leave oneself; feel detached", "vi": "cảm giác rời khỏi chính mình" },
+            { "t": "的感覺", "py": "de gan jue", "hv": "đích cảm giác", "en": "a feeling of ...", "vi": "cảm giác ..." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "tokens": [
+            { "t": "唱不完", "py": "chang bu wan", "hv": "xướng bất hoàn", "en": "can't finish singing", "vi": "hát không hết" },
+            { "t": "一首歌", "py": "yi shou ge", "hv": "nhất thủ ca", "en": "a song", "vi": "một bài hát" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "疲倦", "py": "pi juan", "hv": "bì quyện", "en": "tired; weary", "vi": "mệt mỏi" },
+            { "t": "還剩下", "py": "hai sheng xia", "hv": "hoàn thặng hạ", "en": "still remains", "vi": "vẫn còn lại" },
+            { "t": "黑眼圈", "py": "hei yan quan", "hv": "hắc nhãn quyển", "en": "dark circles (under eyes)", "vi": "quầng thâm mắt" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "感情", "py": "gan qing", "hv": "cảm tình", "en": "feelings; relationship", "vi": "tình cảm" },
+            { "t": "的世界", "py": "de shi jie", "hv": "đích thế giới", "en": "the world of ...", "vi": "thế giới của ..." },
+            { "t": "傷害", "py": "shang hai", "hv": "thương hại", "en": "hurt; harm", "vi": "tổn thương" },
+            { "t": "在所難免", "py": "zai suo nan mian", "hv": "tại sở nan miễn", "en": "hard to avoid; inevitable", "vi": "khó tránh khỏi" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "黃昏", "py": "huang hun", "hv": "hoàng hôn", "en": "twilight; dusk", "vi": "hoàng hôn" },
+            { "t": "再美", "py": "zai mei", "hv": "tái mỹ", "en": "no matter how beautiful", "vi": "dù đẹp đến đâu" },
+            { "t": "終要", "py": "zhong yao", "hv": "chung yếu", "en": "will eventually", "vi": "cuối cùng cũng sẽ" },
+            { "t": "黑夜", "py": "hei ye", "hv": "hắc dạ", "en": "night; darkness", "vi": "đêm tối" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "tokens": [
+            { "t": "依然", "py": "yi ran", "hv": "y nhiên", "en": "still; as before", "vi": "vẫn như xưa" },
+            { "t": "記得", "py": "ji de", "hv": "ký đắc", "en": "to remember", "vi": "vẫn nhớ" },
+            { "t": "從你口中", "py": "cong ni kou zhong", "hv": "tòng nhĩ khẩu trung", "en": "from your mouth", "vi": "từ lời bạn nói" },
+            { "t": "說出", "py": "shuo chu", "hv": "thuyết xuất", "en": "to say; to utter", "vi": "nói ra" },
+            { "t": "再見", "py": "zai jian", "hv": "tái kiến", "en": "goodbye", "vi": "tạm biệt" },
+            { "t": "堅決如鐵", "py": "jian jue ru tie", "hv": "kiên quyết như thiết", "en": "resolute like iron", "vi": "dứt khoát như sắt đá" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "昏暗中", "py": "hun an zhong", "hv": "hôn ám trung", "en": "in the dimness", "vi": "trong mờ tối" },
+            { "t": "有種", "py": "you zhong", "hv": "hữu chủng", "en": "there is a kind of", "vi": "có một kiểu" },
+            { "t": "烈日灼身", "py": "lie ri zhuo shen", "hv": "liệt nhật chước thân", "en": "scorching sun burning the body", "vi": "nắng gắt thiêu đốt thân thể" },
+            { "t": "的錯覺", "py": "de cuo jue", "hv": "đích thác giác", "en": "an illusion of ...", "vi": "ảo giác ..." }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "黃昏的地平線", "py": "huang hun de di ping xian", "hv": "hoàng hôn đích địa bình tuyến", "en": "the dusk horizon", "vi": "đường chân trời lúc hoàng hôn" },
+            { "t": "劃出", "py": "hua chu", "hv": "hoạch xuất", "en": "to draw; to carve out", "vi": "vạch ra" },
+            { "t": "一句離別", "py": "yi ju li bie", "hv": "nhất cú ly biệt", "en": "a sentence of farewell", "vi": "một câu chia ly" },
+            { "t": "愛情", "py": "ai qing", "hv": "ái tình", "en": "romantic love", "vi": "tình yêu" },
+            { "t": "進入永夜", "py": "jin ru yong ye", "hv": "tiến nhập vĩnh dạ", "en": "enter eternal night", "vi": "bước vào đêm vĩnh cửu" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "依然", "py": "yi ran", "hv": "y nhiên", "en": "still; as before", "vi": "vẫn như xưa" },
+            { "t": "記得", "py": "ji de", "hv": "ký đắc", "en": "to remember", "vi": "vẫn nhớ" },
+            { "t": "從你眼中", "py": "cong ni yan zhong", "hv": "tòng nhĩ nhãn trung", "en": "from your eyes", "vi": "từ đôi mắt bạn" },
+            { "t": "滑落", "py": "hua luo", "hv": "hoạt lạc", "en": "to slide/fall down", "vi": "lăn xuống" },
+            { "t": "的淚", "py": "de lei", "hv": "đích lệ", "en": "tears", "vi": "giọt lệ" },
+            { "t": "傷心欲絕", "py": "shang xin yu jue", "hv": "thương tâm dục tuyệt", "en": "heartbroken to the extreme", "vi": "đau lòng đến tột cùng" }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "混亂中", "py": "hun luan zhong", "hv": "hỗn loạn trung", "en": "amid chaos", "vi": "trong hỗn loạn" },
+            { "t": "有種", "py": "you zhong", "hv": "hữu chủng", "en": "there is a kind of", "vi": "có một kiểu" },
+            { "t": "熱淚燒傷", "py": "re lei shao shang", "hv": "nhiệt lệ thiêu thương", "en": "hot tears burning/scalding", "vi": "nước mắt nóng bỏng rát" },
+            { "t": "的錯覺", "py": "de cuo jue", "hv": "đích thác giác", "en": "an illusion of ...", "vi": "ảo giác ..." }
+          ]
+        },
+        {
+          "tokens": [
+            { "t": "黃昏的地平線", "py": "huang hun de di ping xian", "hv": "hoàng hôn đích địa bình tuyến", "en": "the dusk horizon", "vi": "đường chân trời lúc hoàng hôn" },
+            { "t": "割斷", "py": "ge duan", "hv": "cát đoạn", "en": "to sever; cut off", "vi": "cắt đứt" },
+            { "t": "幸福喜悅", "py": "xing fu xi yue", "hv": "hạnh phúc hỉ duyệt", "en": "happiness and joy", "vi": "hạnh phúc và niềm vui" },
+            { "t": "相愛", "py": "xiang ai", "hv": "tương ái", "en": "to love each other", "vi": "yêu nhau" },
+            { "t": "已經幻滅", "py": "yi jing huan mie", "hv": "dĩ kinh huyễn diệt", "en": "has already shattered", "vi": "đã tan vỡ" }
+          ]
+        }
+      ]
+    }
+  ]
+}
