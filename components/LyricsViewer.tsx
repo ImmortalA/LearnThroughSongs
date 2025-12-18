@@ -103,20 +103,31 @@ export default function LyricsViewer({
             </div>
             <div className="space-y-4">
               {section.lines.map((line, lineIndex) => (
-                <div
-                  key={lineIndex}
-                  className="leading-relaxed flex flex-wrap gap-x-2 gap-y-1"
-                  style={{ fontSize: `${fontSize}px` }}
-                >
-                  {line.tokens.map((token, tokenIndex) => (
-                    <TokenSpan
-                      key={tokenIndex}
-                      token={token}
-                      showPinyin={showPinyin}
-                      onHover={handleTokenHover}
-                      fontSize={fontSize}
-                    />
-                  ))}
+                <div key={lineIndex} className="space-y-1">
+                  <div
+                    className="leading-relaxed flex flex-wrap gap-x-2 gap-y-1"
+                    style={{ fontSize: `${fontSize}px` }}
+                  >
+                    {line.tokens.map((token, tokenIndex) => (
+                      <TokenSpan
+                        key={tokenIndex}
+                        token={token}
+                        showPinyin={showPinyin}
+                        onHover={handleTokenHover}
+                        fontSize={fontSize}
+                      />
+                    ))}
+                  </div>
+                  {showTranslations && (line.en || line.vi) && (
+                    <div className="text-sm text-gray-600 space-y-0.5 ml-1">
+                      {line.en && (
+                        <div><span className="text-gray-500">EN:</span> {line.en}</div>
+                      )}
+                      {line.vi && (
+                        <div><span className="text-gray-500">VI:</span> {line.vi}</div>
+                      )}
+                    </div>
+                  )}
                 </div>
               ))}
             </div>

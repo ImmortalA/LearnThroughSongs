@@ -7,6 +7,9 @@ export interface LyricToken {
 }
 
 export interface LyricLine {
+  text: string; // Full line text in Traditional Chinese
+  en?: string; // English translation of the whole line
+  vi?: string; // Vietnamese translation of the whole line
   tokens: LyricToken[];
 }
 

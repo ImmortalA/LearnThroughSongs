@@ -12,7 +12,7 @@ interface TooltipProps {
 }
 
 export default function Tooltip({ token, showTranslations, x, y, onMouseEnter, onMouseLeave }: TooltipProps) {
-  if (!token) return null;
+  if (!token || !showTranslations) return null;
 
   const verticalOffset = 8;
   const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
